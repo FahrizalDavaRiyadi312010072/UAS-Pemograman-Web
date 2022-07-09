@@ -6,8 +6,8 @@
 # Prodi   : Informatika
 # Matkul  : Pemograman Web
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-<img width="960" alt="no1" src="https://user-images.githubusercontent.com/101703423/178115469-267dc7c9-d95a-4533-88f9-a45e5758111b.png">
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+<img width="960" alt="no  1" src="https://user-images.githubusercontent.com/101703423/178116153-0a267739-6f76-4b0e-8b0b-ea7b1a123b02.png">
 <img width="960" alt="no 2" src="https://user-images.githubusercontent.com/101703423/178115477-1973b551-87bc-42a7-b403-e238ffd9b72e.png">
 <img width="881" alt="no 3 A" src="https://user-images.githubusercontent.com/101703423/178116052-78335768-23e0-4446-b225-80e60acbd44c.png">
 <img width="886" alt="no 4 A" src="https://user-images.githubusercontent.com/101703423/178116056-282f7954-b1ef-4ef4-913b-c5a1b4328104.png">
